@@ -48,5 +48,9 @@ public class Automatizacion_Ejercicio_03Test {
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
     }
+
+     //cambio nuevo
+     int x=0;
+     int y=1111;
     
 }
